@@ -28,18 +28,18 @@ const HeroSection = () => {
 
         {/* Headline */}
         <h1 className="mt-6 text-4xl md:text-6xl font-bold">
-          I'm a Designer, <br /> and Developer
+          I&apos;m a Designer, <br /> and Developer
         </h1>
 
         {/* "ABOUT ME" TEXT */}
         <p className="mt-4 max-w-2xl mx-auto text-lg text-gray-300">
-          Hello! I'm a passionate developer with a knack for creating dynamic and user-friendly web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
+          Hello! I&apos;m a passionate developer with a knack for creating dynamic and user-friendly web applications. I love turning complex problems into simple, beautiful, and intuitive designs.
         </p>
 
         {/* CTA Button */}
         <button className="mt-8 bg-brand-accent text-brand-dark font-bold text-lg py-3 px-6 rounded-full flex items-center gap-2 mx-auto border-2 border-brand-dark shadow-lg transition-all hover:scale-105">
           <FiMail />
-          Let's talk
+          Let&apos;s talk
         </button>
 
         {/* Latest Works Section */}
@@ -53,7 +53,6 @@ const HeroSection = () => {
         </p>
 
         <div className="mt-8">
-          
           <a 
             href="https://github.com/saurabhrai06/HackLink"
             target="_blank"
